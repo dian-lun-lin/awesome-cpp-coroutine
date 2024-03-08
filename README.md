@@ -3,6 +3,7 @@ The curated list of awesome C++ Coroutine frameworks, libraries, resources, and 
 
 
 ## Libraries
+- [concurrencpp: Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines](https://github.com/David-Haim/concurrencpp)
 - [Boost.Coroutine2](https://www.boost.org/doc/libs/1_84_0/libs/coroutine2/doc/html/index.html)
 - [cppcoro: A Library for C++ Coroutines Abstractions for the Coroutines TS](https://github.com/lewissbaker/cppcoro)
 - [coro-async: A lite C++ coroutine TS based networking library](https://github.com/arun11299/coro-async)
