@@ -7,6 +7,7 @@ The curated list of awesome C++ Coroutine frameworks, libraries, resources, and 
 - [coro-async: A lite C++ coroutine TS based networking library](https://github.com/arun11299/coro-async)
 - [Taro: Task-based asynchronous programming system using C++ coroutine](https://github.com/dian-lun-lin/taro)
 - [libfork: A lock-free, wait-free, continuation-stealing tasking library built on C++20's coroutines](https://github.com/ConorWilliams/libfork)
+- [libcoro: C++20 coroutine library](https://github.com/jbaldwin/libcoro)
 
 ## Talks
 - [C++ Coroutines](https://youtu.be/vzC2iRfO_H8) - Andreas Buhr, osnacpp 2020
