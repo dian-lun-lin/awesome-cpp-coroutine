@@ -1,5 +1,5 @@
 # Awesome C++ Coroutine resources
-The curated list of awesome C++ Coroutine frameworks, libraries, resources, and fancy things.
+The curated list of awesome C++ Coroutine frameworks, libraries, resources, and fancy things. 
 
 
 ## Libraries
@@ -29,4 +29,6 @@ The curated list of awesome C++ Coroutine frameworks, libraries, resources, and 
 - [C++ Coroutines: Understanding the Compiler Transform](https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform) - Lewis Baker, 2022
 - [A Concise Introduction to Coroutines by Dian-Lun Lin](https://www.linkedin.com/pulse/concise-introduction-coroutines-dian-lun-li-rainer-grimm-wjqee/?trk=article-ssr-frontend-pulse_more-articles_related-content-card) - Rainer Grimm, 2023
 
+## Contributing
+Please feel free to update this page through [submitting pull requests](https://github.com/dian-lun-lin/awesome-cpp-coroutine/pulls). Thanks to all contributors!
 
