@@ -1,4 +1,4 @@
-# Awesome C++ Coroutine resources.
+# Awesome C++ Coroutine resources
 The curated list of awesome C++ Coroutine frameworks, libraries, resources, and fancy things.
 
 
